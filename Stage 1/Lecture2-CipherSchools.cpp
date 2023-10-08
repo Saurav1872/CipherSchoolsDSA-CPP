@@ -1,4 +1,4 @@
-/* Writing The First Program */
+/* Lecture 2- Writing The First Program */
 
 #include <iostream>  // This is a Header 
 using namespace std;
